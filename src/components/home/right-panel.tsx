@@ -10,7 +10,7 @@ import { useEffect, useState } from "react";
 import GroupMembersDialog from "./group-members-dialog";
 
 const RightPanel = () => {
-	const selectedConversation = true; // Set to true for actual chat view
+	const selectedConversation =true; // Set to true for actual chat view
 	const conversationName = "John Doe";
 	const isGroup=true;
 
